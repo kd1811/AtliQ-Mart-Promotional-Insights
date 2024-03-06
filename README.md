@@ -1,7 +1,7 @@
 # AtliQ-Mart-Promotional-Insights
 This is SQL-Power BI based project for promotional insights for AtliQ Mart in FMCG domain.
 
-##SQL Queries for Ad-hoc requests:
+## SQL Queries for Ad-hoc requests:
 
 ### Request 1: List of Products with Base Price > 500 and Featured in BOGOF Promo
 
